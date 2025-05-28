@@ -103,6 +103,4 @@ Key Visual Goals:
 ---
 
 📬 Contact
-📧 DaghamHaidar@gmail.com  
-🔗 [GitHub – HaidarDagham]
-(https://github.com/haidardagham)
+📧 Haidar@Dagham.com  
