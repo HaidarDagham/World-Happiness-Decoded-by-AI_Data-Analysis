@@ -19,6 +19,15 @@ The World Happiness Report is a globally recognized dataset that evaluates the s
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <strong>'World Happiness Decoded by AI – Data Analysis'</strong><br>
+  <img src="dashboards/Dashboard.png" width="800" alt="Desktop Screenshot">
+</p>
+
+---
+
 📌 Dataset Source
 
 The dataset is derived from the **2016 World Happiness Report**, available on Kaggle under the CC0: Public Domain license.  
@@ -104,3 +113,4 @@ Key Visual Goals:
 
 📬 Contact
 📧 Haidar@Dagham.com  
+
